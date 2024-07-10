@@ -5,6 +5,11 @@
 
 The __Nuclear Power? No Thanks__ logo, an international symbol of the anti-nuclear movement. Originally designed by Anne Lund in 1975, and adapted by Michael Kolesidis.
 
+## Languages
+
+- English
+- Greek (Ελληνικά)
+
 ## See Also
 
 [Smiling Sun (Wikipedia)](https://en.wikipedia.org/wiki/Smiling_Sun)
