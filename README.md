@@ -8,7 +8,9 @@ The __Nuclear Power? No Thanks__ logo, an international symbol of the anti-nucle
 ## Languages
 
 - English
+  - Nuclear Power? No Thanks
 - Greek (Ελληνικά)
+  - Πυρηνική Ενέργεια; Όχι Ευχαριστώ
 
 ## See Also
 
